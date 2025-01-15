@@ -591,17 +591,6 @@
             "tag": "a0d94ce0-6cba-410e-a74c-51898a7d4aaf",
             "value": ""
         },
-        "817c8f98-040e-42c5-b2e6-0d4ea1616f17": {
-            "alt_pins": {},
-            "connections": {},
-            "entity": "e56d286e-744d-4059-b070-2fd855e01ff6",
-            "group": "00000000-0000-0000-0000-000000000000",
-            "part": "e6e84cad-f99f-4c67-aa73-457d820a6662",
-            "pin_names": {},
-            "refdes": "SAG",
-            "tag": "4cae309e-92ad-49e7-8a04-126bd34553c1",
-            "value": ""
-        },
         "83328df3-b941-40a5-a573-a7059a45d1ce": {
             "alt_pins": {},
             "connections": {
@@ -863,28 +852,6 @@
             "tag": "6034cd65-1b7d-4db2-9814-4465a3d3cc57",
             "value": ""
         },
-        "bc37202e-4245-460d-8db4-9ea69e5651ee": {
-            "alt_pins": {},
-            "connections": {},
-            "entity": "e56d286e-744d-4059-b070-2fd855e01ff6",
-            "group": "00000000-0000-0000-0000-000000000000",
-            "part": "e6ad9436-ceb6-4437-b66c-5fed942b534b",
-            "pin_names": {},
-            "refdes": "VOL",
-            "tag": "760372e8-f53e-4f8b-9234-630f28a37155",
-            "value": ""
-        },
-        "c1d0da56-6801-4e4c-ab53-5b245f7628e9": {
-            "alt_pins": {},
-            "connections": {},
-            "entity": "e56d286e-744d-4059-b070-2fd855e01ff6",
-            "group": "00000000-0000-0000-0000-000000000000",
-            "part": "e6ad9436-ceb6-4437-b66c-5fed942b534b",
-            "pin_names": {},
-            "refdes": "DRIVE",
-            "tag": "b60e0436-ee4f-4fa7-9a08-688e4d1358d3",
-            "value": ""
-        },
         "c99f7665-d0fa-4ca6-92e4-f7ec1f858e28": {
             "alt_pins": {},
             "connections": {
@@ -919,17 +886,6 @@
             "pin_names": {},
             "refdes": "R12",
             "tag": "041e92e6-a5e1-43fa-a027-93d0bc2cf011",
-            "value": ""
-        },
-        "cf62a896-c4da-4bc8-b37d-5d867af38e2b": {
-            "alt_pins": {},
-            "connections": {},
-            "entity": "2c312a2e-9ae3-4763-a8d2-286c0379b8d1",
-            "group": "00000000-0000-0000-0000-000000000000",
-            "part": "4422c0d6-974d-4df4-8330-f0e7f34c9428",
-            "pin_names": {},
-            "refdes": "TONE",
-            "tag": "07ccc6ea-3a0f-4c23-8602-1b2b40e7caad",
             "value": ""
         },
         "d6d6eb0a-177d-4408-b3ed-ab1d257bd85f": {
@@ -1418,7 +1374,6 @@
     "tag_names": {
         "041e92e6-a5e1-43fa-a027-93d0bc2cf011": "27",
         "049443e0-da9d-40bb-9e1e-3f43a76f5de4": "42",
-        "07ccc6ea-3a0f-4c23-8602-1b2b40e7caad": "21",
         "08ee1241-5211-4268-8a17-0dda5d743dd9": "7",
         "0911ad7f-152b-41c4-9d4c-4618bcfdb613": "22",
         "11dcec55-f787-4dbb-82da-42149538a3fe": "33",
@@ -1433,7 +1388,6 @@
         "353888e9-55a8-49e9-9076-e9c50884b73c": "13",
         "41be6fd5-c8c5-47a6-8ec1-2e15e289e1af": "14",
         "4a68f60a-f7dd-4c89-9770-c63d8d3a16d3": "18",
-        "4cae309e-92ad-49e7-8a04-126bd34553c1": "13",
         "50d8e787-55f9-4889-bc16-ef7e5988e405": "20",
         "53213250-3466-40b2-910d-88890954862a": "40",
         "542c5cf9-c5ac-44ff-865b-4bbfd30ce6f8": "39",
@@ -1443,14 +1397,12 @@
         "6034cd65-1b7d-4db2-9814-4465a3d3cc57": "41",
         "6d67c679-8a9a-4417-8c81-f83bab466e86": "9",
         "74cccacf-e849-4f2a-b115-ead21cb4df37": "15",
-        "760372e8-f53e-4f8b-9234-630f28a37155": "24",
         "78009cc3-1755-4234-9b01-4333368ef108": "37",
         "88303aaf-ad0a-4f8a-ae9d-039abde5e8e5": "25",
         "8e718910-6a73-4f3c-9431-5976b6f1556d": "39",
         "a0d94ce0-6cba-410e-a74c-51898a7d4aaf": "45",
         "aba63689-035f-4e3d-95ff-6f2400279bc9": "34",
         "abeac6b0-43db-4866-98ea-3b287e55c04b": "37",
-        "b60e0436-ee4f-4fa7-9a08-688e4d1358d3": "18",
         "b75856de-bc01-4266-bd01-cbc5c2bdc8d9": "29",
         "bcb00a11-ece9-405b-8e72-f567e6bffd18": "17",
         "c2ba4ed0-6389-47e5-9bd7-ed428ad3c289": "43",

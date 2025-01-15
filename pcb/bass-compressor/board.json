@@ -20,6 +20,19 @@
     },
     "connection_lines": {},
     "dimensions": {
+        "a51ecdd7-a853-4227-acec-8ba10274cf4f": {
+            "label_distance": 72000000,
+            "label_size": 1500000,
+            "mode": "distance",
+            "p0": [
+                0,
+                0
+            ],
+            "p1": [
+                31500000,
+                0
+            ]
+        },
         "c83a6871-02a5-4c02-a3af-fc0fafd346e2": {
             "label_distance": 7000000,
             "label_size": 1500000,
@@ -413,24 +426,8 @@
     },
     "output_format": "gerber",
     "packages": {
-        "1bf54870-9eb4-4ece-bd6b-d37ecddb6317": {
-            "component": "cf62a896-c4da-4bc8-b37d-5d867af38e2b",
-            "fixed": true,
-            "flip": true,
-            "omit_silkscreen": false,
-            "placement": {
-                "angle": 49152,
-                "mirror": true,
-                "shift": [
-                    53500000,
-                    52500000
-                ]
-            },
-            "smashed": false,
-            "texts": []
-        },
-        "63f00518-8059-47bf-8341-39cea40d12c7": {
-            "component": "c1d0da56-6801-4e4c-ab53-5b245f7628e9",
+        "58eff8c4-2d93-4495-8282-b84f7159847b": {
+            "component": "f3c7ef58-c19e-45b1-b16e-259a86778ab7",
             "fixed": true,
             "flip": true,
             "omit_silkscreen": false,
@@ -440,6 +437,38 @@
                 "shift": [
                     9500000,
                     78500000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "804d469c-6b3e-4b81-b2ed-772e60320fea": {
+            "component": "1f805869-2135-4013-b2c2-68ceb8d1275a",
+            "fixed": true,
+            "flip": true,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    53500000,
+                    52500000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "999df1cb-b5ab-4bae-931e-f467e5be7325": {
+            "component": "134abd19-9faa-4255-811f-6e71673c5239",
+            "fixed": true,
+            "flip": true,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    9500000,
+                    52500000
                 ]
             },
             "smashed": false,
@@ -463,22 +492,6 @@
                 "9e81e0bd-3bde-49d5-ab31-c39177ded421"
             ]
         },
-        "afa5273e-87d9-4029-843c-4c1d24961cc3": {
-            "component": "bc37202e-4245-460d-8db4-9ea69e5651ee",
-            "fixed": true,
-            "flip": true,
-            "omit_silkscreen": false,
-            "placement": {
-                "angle": 0,
-                "mirror": true,
-                "shift": [
-                    53500000,
-                    78500000
-                ]
-            },
-            "smashed": false,
-            "texts": []
-        },
         "b8593fb3-c6d4-4448-b2b2-5bd0d1ee4e9a": {
             "component": "83328df3-b941-40a5-a573-a7059a45d1ce",
             "fixed": true,
@@ -497,8 +510,8 @@
                 "3a7c9e88-a7e5-48cd-99e2-ea1e5c8b3003"
             ]
         },
-        "c5439b2f-2526-4e77-a721-351774871f96": {
-            "component": "817c8f98-040e-42c5-b2e6-0d4ea1616f17",
+        "d77a76fe-3ce4-475e-a04b-afa0beccb660": {
+            "component": "ee6d6aa1-bd69-461b-8483-6f90e291ccfa",
             "fixed": true,
             "flip": true,
             "omit_silkscreen": false,
@@ -506,7 +519,23 @@
                 "angle": 0,
                 "mirror": true,
                 "shift": [
-                    9500000,
+                    53500000,
+                    78500000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "f26ec9ea-e037-4f0b-a396-daee209ccfff": {
+            "component": "0585ed41-1da3-409d-8666-38dcee19d82a",
+            "fixed": true,
+            "flip": true,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    31500000,
                     52500000
                 ]
             },

@@ -3362,25 +3362,6 @@
                 }
             },
             "symbols": {
-                "172fcb30-743d-4aae-89ec-f926f479fa10": {
-                    "component": "c1d0da56-6801-4e4c-ab53-5b245f7628e9",
-                    "display_all_pads": false,
-                    "display_directions": false,
-                    "expand": 0,
-                    "gate": "8ab7464a-ee86-4b19-bbbc-e3499b3575bc",
-                    "pin_display_mode": "selected_only",
-                    "placement": {
-                        "angle": 0,
-                        "mirror": false,
-                        "shift": [
-                            128750000,
-                            63750000
-                        ]
-                    },
-                    "smashed": false,
-                    "symbol": "f53d9985-4fbc-4745-be23-ed3404df9c77",
-                    "texts": []
-                },
                 "175b8631-5af6-4395-81e3-6ae8f19068b0": {
                     "component": "6c3a7169-ec14-447e-a473-3be1bf429a95",
                     "display_all_pads": false,
@@ -3979,25 +3960,6 @@
                     "symbol": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73",
                     "texts": []
                 },
-                "6f857ad3-f6db-48c1-affb-3a035d45e12e": {
-                    "component": "bc37202e-4245-460d-8db4-9ea69e5651ee",
-                    "display_all_pads": false,
-                    "display_directions": false,
-                    "expand": 0,
-                    "gate": "8ab7464a-ee86-4b19-bbbc-e3499b3575bc",
-                    "pin_display_mode": "selected_only",
-                    "placement": {
-                        "angle": 0,
-                        "mirror": false,
-                        "shift": [
-                            153750000,
-                            65000000
-                        ]
-                    },
-                    "smashed": false,
-                    "symbol": "f53d9985-4fbc-4745-be23-ed3404df9c77",
-                    "texts": []
-                },
                 "71981c95-edd0-4a8e-95bf-e508eab51421": {
                     "component": "ee6d6aa1-bd69-461b-8483-6f90e291ccfa",
                     "display_all_pads": false,
@@ -4268,25 +4230,6 @@
                     "symbol": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73",
                     "texts": []
                 },
-                "a660783a-23a8-4a71-9796-d3651ba79d74": {
-                    "component": "817c8f98-040e-42c5-b2e6-0d4ea1616f17",
-                    "display_all_pads": false,
-                    "display_directions": false,
-                    "expand": 0,
-                    "gate": "8ab7464a-ee86-4b19-bbbc-e3499b3575bc",
-                    "pin_display_mode": "selected_only",
-                    "placement": {
-                        "angle": 49152,
-                        "mirror": true,
-                        "shift": [
-                            111250000,
-                            65000000
-                        ]
-                    },
-                    "smashed": false,
-                    "symbol": "f53d9985-4fbc-4745-be23-ed3404df9c77",
-                    "texts": []
-                },
                 "b10d92d0-bfd5-4d6c-a7c6-8299d8a63496": {
                     "component": "5a15ac8c-1652-4150-9b98-b1ccbf748d4e",
                     "display_all_pads": false,
@@ -4361,25 +4304,6 @@
                     },
                     "smashed": false,
                     "symbol": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73",
-                    "texts": []
-                },
-                "c8a83118-6f82-43c1-b3bc-49e448384959": {
-                    "component": "cf62a896-c4da-4bc8-b37d-5d867af38e2b",
-                    "display_all_pads": false,
-                    "display_directions": false,
-                    "expand": 0,
-                    "gate": "7b67e28c-3370-46fa-8139-69ebd7595163",
-                    "pin_display_mode": "selected_only",
-                    "placement": {
-                        "angle": 16384,
-                        "mirror": false,
-                        "shift": [
-                            142500000,
-                            62500000
-                        ]
-                    },
-                    "smashed": false,
-                    "symbol": "bee201d6-3b1c-4aa4-9300-cbf14d76fb45",
                     "texts": []
                 },
                 "d05a9422-519e-42b6-bc76-cb47eb3ee206": {
