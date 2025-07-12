@@ -19,6 +19,47 @@
         }
     },
     "connection_lines": {},
+    "decals": {
+        "39c52bc0-d7bd-4dd5-8d4a-e96d75cb88d2": {
+            "decal": "4cc5e4cd-50f5-4ad0-a8a5-9cb99eba203d",
+            "flip": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    4800000,
+                    13550000
+                ]
+            },
+            "scale": 1.0
+        },
+        "90dce3cd-fd16-43ee-b2cb-25ec2f7941cc": {
+            "decal": "38ca3c1f-10dd-4966-baf1-235761787ce6",
+            "flip": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    58500000,
+                    17300000
+                ]
+            },
+            "scale": 1.0
+        },
+        "98296b47-70bd-4edf-837b-57ac74a167cb": {
+            "decal": "2cef7b60-e221-46bc-9c70-099b6f061662",
+            "flip": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    58500000,
+                    12600000
+                ]
+            },
+            "scale": 1.0
+        }
+    },
     "dimensions": {
         "a51ecdd7-a853-4227-acec-8ba10274cf4f": {
             "label_distance": 72000000,
@@ -121,7 +162,7 @@
                 "layer": 30
             }
         },
-        "output_directory": "/home/yann/_ygn/effect-sexy-rodent/pcb/gerber",
+        "output_directory": "/home/yann/_ygn/effect-bass-compressor/pcb/gerber",
         "prefix": "sexy-rodent",
         "zip_output": true
     },
@@ -4718,6 +4759,23 @@
             },
             "size": 1000000,
             "text": "$RD",
+            "width": 150000
+        },
+        "0aa1d51f-49e2-4614-a84e-c1d19ed25f94": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    57000000,
+                    9300000
+                ]
+            },
+            "size": 1000000,
+            "text": "v1.0",
             "width": 150000
         },
         "14be5c8c-e84e-41ba-be36-830cd381cdcd": {
