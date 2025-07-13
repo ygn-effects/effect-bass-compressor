@@ -163,7 +163,7 @@
             }
         },
         "output_directory": "/home/yann/_ygn/effect-bass-compressor/pcb/gerber",
-        "prefix": "sexy-rodent",
+        "prefix": "bass-compressor",
         "zip_output": true
     },
     "grid_settings": {
