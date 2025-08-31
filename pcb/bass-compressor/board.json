@@ -27,11 +27,11 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    4800000,
-                    13550000
+                    1800000,
+                    11500000
                 ]
             },
-            "scale": 1.0
+            "scale": 0.5000000000000001
         },
         "90dce3cd-fd16-43ee-b2cb-25ec2f7941cc": {
             "decal": "38ca3c1f-10dd-4966-baf1-235761787ce6",
@@ -8333,7 +8333,7 @@
             "source": "local"
         },
         "4ee32c8b-d42b-466b-8eff-4ca085ca87d3": {
-            "from_rules": false,
+            "from_rules": true,
             "junction": "b37ff14e-3f26-4129-9219-74a271cdcbbf",
             "locked": false,
             "net_set": "936f0572-b515-4dd7-9524-bc4c5b0d957c",
@@ -8342,7 +8342,7 @@
                 "hole_diameter": 600000,
                 "via_diameter": 1000000
             },
-            "source": "local"
+            "source": "rules"
         },
         "53854855-276c-421d-bc3b-f865e48508a1": {
             "from_rules": false,
