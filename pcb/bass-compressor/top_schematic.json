@@ -750,7 +750,7 @@
                     "from": {
                         "bus_ripper": null,
                         "junc": null,
-                        "pin": "fb82c452-21ca-4f53-aa84-49769a008d53/390cf87a-5271-4c11-b8ad-abab12ba848f",
+                        "pin": "48902242-38cb-4ec3-a501-209b25b0791e/390cf87a-5271-4c11-b8ad-abab12ba848f",
                         "port": null
                     },
                     "to": {
@@ -2038,7 +2038,7 @@
                     "from": {
                         "bus_ripper": null,
                         "junc": null,
-                        "pin": "47741126-c9d9-4edf-b843-5f35286473e0/81eb32d7-53c7-4b84-a640-15abb5bbae3e",
+                        "pin": "dfc34edb-772b-4abb-8b2a-86d309c0d3d6/81eb32d7-53c7-4b84-a640-15abb5bbae3e",
                         "port": null
                     },
                     "to": {
@@ -2318,7 +2318,7 @@
                     "from": {
                         "bus_ripper": null,
                         "junc": null,
-                        "pin": "47741126-c9d9-4edf-b843-5f35286473e0/390cf87a-5271-4c11-b8ad-abab12ba848f",
+                        "pin": "dfc34edb-772b-4abb-8b2a-86d309c0d3d6/390cf87a-5271-4c11-b8ad-abab12ba848f",
                         "port": null
                     },
                     "to": {
@@ -3004,7 +3004,7 @@
                     "from": {
                         "bus_ripper": null,
                         "junc": null,
-                        "pin": "fb82c452-21ca-4f53-aa84-49769a008d53/81eb32d7-53c7-4b84-a640-15abb5bbae3e",
+                        "pin": "48902242-38cb-4ec3-a501-209b25b0791e/81eb32d7-53c7-4b84-a640-15abb5bbae3e",
                         "port": null
                     },
                     "to": {
@@ -3704,25 +3704,6 @@
                     "symbol": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73",
                     "texts": []
                 },
-                "47741126-c9d9-4edf-b843-5f35286473e0": {
-                    "component": "94f6bd03-f5a1-4b5c-87c8-11adeec7e864",
-                    "display_all_pads": false,
-                    "display_directions": false,
-                    "expand": 0,
-                    "gate": "151e7b18-1473-410b-9cc5-2a2bfc5a9662",
-                    "pin_display_mode": "selected_only",
-                    "placement": {
-                        "angle": 0,
-                        "mirror": false,
-                        "shift": [
-                            37500000,
-                            28750000
-                        ]
-                    },
-                    "smashed": false,
-                    "symbol": "601c217e-825f-4c03-a333-41ba6de644fd",
-                    "texts": []
-                },
                 "488666f5-959b-4e98-b733-2ace4c25f0b0": {
                     "component": "8a06d402-eb1c-452a-99d3-931761921ea3",
                     "display_all_pads": false,
@@ -3740,6 +3721,25 @@
                     },
                     "smashed": false,
                     "symbol": "e02b8f7f-f1ab-48ef-af44-3a9c86679de9",
+                    "texts": []
+                },
+                "48902242-38cb-4ec3-a501-209b25b0791e": {
+                    "component": "84b66371-a631-43c6-8461-44c07d356072",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "151e7b18-1473-410b-9cc5-2a2bfc5a9662",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            37500000,
+                            13750000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "601c217e-825f-4c03-a333-41ba6de644fd",
                     "texts": []
                 },
                 "4c4135a4-359d-454d-939c-1c341a3b82b8": {
@@ -4344,6 +4344,25 @@
                     "symbol": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73",
                     "texts": []
                 },
+                "dfc34edb-772b-4abb-8b2a-86d309c0d3d6": {
+                    "component": "96e2ffd1-d660-4194-915a-4db6ff56ba1b",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "151e7b18-1473-410b-9cc5-2a2bfc5a9662",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            37500000,
+                            28750000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "601c217e-825f-4c03-a333-41ba6de644fd",
+                    "texts": []
+                },
                 "e4c2d35f-d099-49d6-86fd-7f119b2a46ee": {
                     "component": "61383888-745b-4792-a160-71f3b35d9b78",
                     "display_all_pads": false,
@@ -4418,25 +4437,6 @@
                     },
                     "smashed": false,
                     "symbol": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73",
-                    "texts": []
-                },
-                "fb82c452-21ca-4f53-aa84-49769a008d53": {
-                    "component": "d6d6eb0a-177d-4408-b3ed-ab1d257bd85f",
-                    "display_all_pads": false,
-                    "display_directions": false,
-                    "expand": 0,
-                    "gate": "151e7b18-1473-410b-9cc5-2a2bfc5a9662",
-                    "pin_display_mode": "selected_only",
-                    "placement": {
-                        "angle": 0,
-                        "mirror": false,
-                        "shift": [
-                            37500000,
-                            13750000
-                        ]
-                    },
-                    "smashed": false,
-                    "symbol": "601c217e-825f-4c03-a333-41ba6de644fd",
                     "texts": []
                 }
             },
